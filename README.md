@@ -1,3 +1,4 @@
+# *Default App Deleter*
 # Follow These step to Delete Default apps (Like YouTube)
 - first open android studio
 - then go to the terminal (in the bottom)
